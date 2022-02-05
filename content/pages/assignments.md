@@ -19,17 +19,178 @@ Shankar, Ramamurti. _Principles of Quantum Mechanics_. 2nd ed. New York, NY: Ple
 
 Ohanian, Hans. _Principles of Quantum Mechanics_. Upper Saddle River, NJ: Prentice Hall, 1989. ISBN: 9780137127955.
 
-| ASSIGNMENTS | RELATED READINGS |
-| --- | --- |
-| Assignment 1 ([PDF]({{< baseurl >}}/resources/ps1)) |  {{< br >}}{{< br >}} Griffiths, chapter 5.3 {{< br >}}{{< br >}} Cohen-Tannoudji, chapter XI, Complement F {{< br >}}{{< br >}}  |
-| Assignment 2 ([PDF]({{< baseurl >}}/resources/ps2)) |  {{< br >}}{{< br >}} Griffiths, section 10.2.4 {{< br >}}{{< br >}} Cohen-Tannoudji, chapter VI, Complement E {{< br >}}{{< br >}} Sakurai, pp. 130-39 {{< br >}}{{< br >}}  |
-| Assignment 3 ([PDF]({{< baseurl >}}/resources/ps3)) |  {{< br >}}{{< br >}} Griffiths, section 10.2.4 {{< br >}}{{< br >}} Cohen-Tannoudji, chapter VI, Complement E {{< br >}}{{< br >}} Sakurai, pp. 130-39 {{< br >}}{{< br >}}  |
-| Assignment 4 ([PDF]({{< baseurl >}}/resources/ps4)) |  {{< br >}}{{< br >}} Griffiths, sections 6.1, 6.2 {{< br >}}{{< br >}} Cohen-Tannoudji, chapter XI {{< br >}}{{< br >}}  |
-| Assignment 5 ([PDF]({{< baseurl >}}/resources/ps5)) |  {{< br >}}{{< br >}} Griffiths, chapter 6 {{< br >}}{{< br >}} Cohen-Tannoudji, chapter XI, Complements A-D {{< br >}}{{< br >}}  |
-| Assignment 6 ([PDF]({{< baseurl >}}/resources/ps6)) |  {{< br >}}{{< br >}} Griffiths, chapter 6 {{< br >}}{{< br >}} Cohen-Tannoudji, chapters XI, Complements A-D, chapter XII {{< br >}}{{< br >}}  |
-| Assignment 7 ([PDF]({{< baseurl >}}/resources/ps7)) |  {{< br >}}{{< br >}} Griffiths, chapters 7, 8 {{< br >}}{{< br >}} Cohen-Tannoudji, chapter XI, Complements E, F, G {{< br >}}{{< br >}}  |
-| Assignment 8 ([PDF]({{< baseurl >}}/resources/ps8)) |  {{< br >}}{{< br >}} Griffiths, chapters 8, 10 {{< br >}}{{< br >}} Haxton, W. C. "The Solar Neutrino Problem." _Annual Review of Astronomy and Astrophysics_ 33 (1995): 459-503. {{< br >}}{{< br >}}  |
-| Assignment 9 ([PDF]({{< baseurl >}}/resources/ps9)) |  {{< br >}}{{< br >}} Cohen-Tannoudji, chapter VIII {{< br >}}{{< br >}} Griffiths, chapter 11 {{< br >}}{{< br >}} Ohanian, chapter 11 {{< br >}}{{< br >}}  |
-| Assignment 10 ([PDF]({{< baseurl >}}/resources/ps10)) |  {{< br >}}{{< br >}} Cohen-Tannoudji, chapter VIII {{< br >}}{{< br >}} Griffiths, chapters 9, 11 {{< br >}}{{< br >}} Ohanian, chapter 11 {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+RELATED READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, chapter 5.3
+
+Cohen-Tannoudji, chapter XI, Complement F
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2 ([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, section 10.2.4
+
+Cohen-Tannoudji, chapter VI, Complement E
+
+Sakurai, pp. 130-39
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/ps3))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, section 10.2.4
+
+Cohen-Tannoudji, chapter VI, Complement E
+
+Sakurai, pp. 130-39
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 4 ([PDF]({{< baseurl >}}/resources/ps4))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, sections 6.1, 6.2
+
+Cohen-Tannoudji, chapter XI
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 5 ([PDF]({{< baseurl >}}/resources/ps5))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, chapter 6
+
+Cohen-Tannoudji, chapter XI, Complements A-D
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 6 ([PDF]({{< baseurl >}}/resources/ps6))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, chapter 6
+
+Cohen-Tannoudji, chapters XI, Complements A-D, chapter XII
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 7 ([PDF]({{< baseurl >}}/resources/ps7))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, chapters 7, 8
+
+Cohen-Tannoudji, chapter XI, Complements E, F, G
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 8 ([PDF]({{< baseurl >}}/resources/ps8))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Griffiths, chapters 8, 10
+
+Haxton, W. C. "The Solar Neutrino Problem." _Annual Review of Astronomy and Astrophysics_ 33 (1995): 459-503.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 9 ([PDF]({{< baseurl >}}/resources/ps9))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cohen-Tannoudji, chapter VIII
+
+Griffiths, chapter 11
+
+Ohanian, chapter 11
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 10 ([PDF]({{< baseurl >}}/resources/ps10))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cohen-Tannoudji, chapter VIII
+
+Griffiths, chapters 9, 11
+
+Ohanian, chapter 11
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Optional Problem Set ([PDF]({{< baseurl >}}/resources/opt_prob_10))
