@@ -6,6 +6,7 @@ description: "Problem set on quantum physics. Problem set on the Feynman\xAD-Hel
   \ two \"toy\xAD-model atoms.\""
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-06-quantum-physics-iii-spring-2005/6398d8b3d4cb206d214e7cb8a1da107c_ps6.pdf
 file_type: application/pdf
+parent_uid: 1f3f9318-a2a3-961b-9631-e30a0ce813a1
 resourcetype: Document
 title: Assignment 6
 uid: 6398d8b3-d4cb-206d-214e-7cb8a1da107c
